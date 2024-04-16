@@ -1,2 +1,2 @@
 # date-counter
-Created with CodeSandbox
+a small project in React
